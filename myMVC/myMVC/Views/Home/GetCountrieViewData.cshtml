@@ -1,0 +1,23 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetCountrieViewData</title>
+</head>
+<body>
+    <h2>Countries ViewData</h2>
+    <div>
+        <ul>
+            @foreach(string strCountry in (List<string>)ViewData["Countries"])
+            { 
+               <li>@strCountry</li>
+            }
+        </ul>
+    </div>
+</body>
+</html>
