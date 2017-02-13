@@ -29,3 +29,34 @@ C:\Users\Administrator\Documents\Visual Studio 2012\Projects\myMVC\myMVC\bin\Sys
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\myMVC\myMVC\obj\Debug\myMVC.dll
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\myMVC\myMVC\obj\Debug\myMVC.pdb
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\myMVC\myMVC\obj\Debug\myMVC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\myMVC.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\myMVC.pdb
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\obj\Debug\myMVC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\obj\Debug\myMVC.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\obj\Debug\myMVC.pdb

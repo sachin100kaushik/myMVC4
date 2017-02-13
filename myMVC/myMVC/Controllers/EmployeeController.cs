@@ -12,18 +12,19 @@ namespace myMVC.Controllers
         //
         // GET: /Employee/
 
-        //public ActionResult getEmployeeDetails()
-        //{
-        //    Employee employee = new Employee() { 
-        //    EmployeeId=101,
-        //    Name="John",
-        //    Gender="Male",
-        //    City ="NY"
-        //    };
-        //    return View(employee);
-        //}
+        public ActionResult getEmployeeDetails()
+        {
+            Employee employee = new Employee()
+            {
+                EmployeeId = 101,
+                Name = "John",
+                Gender = "Male",
+                City = "NY"
+            };
+            return View(employee);
+        }
 
-        public ActionResult getEmployeeDetails(int id)
+        public ActionResult getEmployeeContext(int id)
         {
             EmployeeContext employeeContext = new EmployeeContext();
             Employee employee = employeeContext.Employees.Single(emp => emp.EmployeeId == id);
