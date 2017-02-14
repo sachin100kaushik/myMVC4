@@ -17,7 +17,6 @@ namespace myMVC
         {
             Database.SetInitializer<myMVC.Models.EmployeeContext>(null);
             AreaRegistration.RegisterAllAreas();
-
             WebApiConfig.Register(GlobalConfiguration.Configuration);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

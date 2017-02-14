@@ -30,5 +30,12 @@ namespace myMVC.Controllers
             Employee employee = employeeContext.Employees.Single(emp => emp.EmployeeId == id);
             return View(employee);
         }
+
+        public ActionResult Index()
+        {
+            EmployeeContext employeeContext = new EmployeeContext();
+            List<Employee> employees = employeeContext.Employees.ToList();
+            return View(employees);
+        }
     }
 }

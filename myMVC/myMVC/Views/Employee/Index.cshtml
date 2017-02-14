@@ -1,0 +1,29 @@
+﻿@model IEnumerable< myMVC.Models.Employee>
+@using myMVC.Models;
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List of employees in hyperlink</title>
+</head>
+<body>
+     <h4>List of employees in hyperlink</h4>
+    <div>
+       <ul>
+           @foreach(Employee Employee in @Model)
+           { 
+               <li>
+                   @Html.ActionLink(Employee.Name ,"getEmployeeContext",new {id=Employee.EmployeeId})
+               </li>
+           }
+       </ul>
+
+    </div>
+</body>
+</html>
