@@ -19,11 +19,6 @@ namespace myMVC.Controllers
             return View(departments);
         }
 
-        public ActionResult Index(int DepId)
-        {
-            EmployeeContext employeecontext = new EmployeeContext();
-            Department department = employeecontext.Departments.Single(dep=>dep.Id==DepId);
-            return View(department);
-        }
+        
     }
 }

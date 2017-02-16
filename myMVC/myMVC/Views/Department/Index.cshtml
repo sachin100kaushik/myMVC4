@@ -1,4 +1,5 @@
-﻿@model myMVC.Models.Department
+﻿@model IEnumerable< myMVC.Models.Department>
+@using myMVC.Models;
 
 @{
     Layout = null;
@@ -9,11 +10,20 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>List of department</title>
+    <title>List of departments</title>
 </head>
 <body>
-    <div>
-        
+    <h2>List of the departments</h2>
+    <div style="font-family:Arial">
+        <ul>
+            @foreach(Department department in @Model )
+            {
+                <li>
+                      @Html.ActionLink(department.Name,"Index","Employee",new {departmentId=department.DepId},null)
+                </li>
+            }
+        </ul>
+
     </div>
 </body>
 </html>
