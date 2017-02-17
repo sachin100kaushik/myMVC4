@@ -6,6 +6,7 @@ using System.Web;
 using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Routing;
+using BusinessLayer.Models;
 
 namespace myMVC
 {
@@ -15,7 +16,7 @@ namespace myMVC
     {
         protected void Application_Start()
         {
-            Database.SetInitializer<myMVC.Models.EmployeeContext>(null);
+            Database.SetInitializer<EmployeeContext>(null);
             AreaRegistration.RegisterAllAreas();
             WebApiConfig.Register(GlobalConfiguration.Configuration);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);

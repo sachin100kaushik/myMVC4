@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
-using System.Web;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace myMVC.Models
+namespace BusinessLayer.Models
 {
     [Table("tblEmployee")]
     public class Employee
@@ -16,6 +17,6 @@ namespace myMVC.Models
         public string Gender { get; set; }
         public string City { get; set; }
         public int DepId { get; set; }
-        
+
     }
 }

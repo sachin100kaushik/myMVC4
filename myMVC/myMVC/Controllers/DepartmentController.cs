@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using myMVC.Models;
+using BusinessLayer.Models;
 
 namespace myMVC.Controllers
 {

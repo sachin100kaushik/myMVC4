@@ -1,5 +1,5 @@
-﻿@model IEnumerable< myMVC.Models.Employee>
-@using myMVC.Models;
+﻿@model IEnumerable<BusinessLayer.Models.Employee>
+@using BusinessLayer.Models;
 
 @{
     Layout = null;
@@ -23,7 +23,7 @@
                </li>
            }
        </ul>
-         @Html.ActionLink("Back To List", "Index","Department")
+         @Html.ActionLink("Back to list of departments", "Index","Department")
     </div>
 </body>
 </html>

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\BusinessLayer\obj\Debug\BusinessLayer.pdb

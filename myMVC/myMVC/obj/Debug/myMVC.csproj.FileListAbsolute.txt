@@ -31,6 +31,7 @@ C:\Users\Administrator\Documents\Visual Studio 2012\Projects\myMVC\myMVC\obj\Deb
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\myMVC\myMVC\obj\Debug\myMVC.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\myMVC.dll
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\myMVC.pdb
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\BusinessLayer.dll
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\EntityFramework.dll
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\EntityFramework.SqlServer.dll
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\Microsoft.Web.Infrastructure.dll
@@ -45,6 +46,7 @@ C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.Razor.dll
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.WebPages.Deployment.dll
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.WebPages.dll
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\BusinessLayer.pdb
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\EntityFramework.xml
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\EntityFramework.SqlServer.xml
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC\bin\Newtonsoft.Json.xml

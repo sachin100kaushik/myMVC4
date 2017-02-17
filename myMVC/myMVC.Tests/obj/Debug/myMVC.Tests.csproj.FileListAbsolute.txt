@@ -50,6 +50,7 @@ C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\System.W
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\System.Web.WebPages.dll
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\BusinessLayer.dll
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\myMVC.pdb
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\EntityFramework.xml
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\EntityFramework.SqlServer.xml
@@ -63,6 +64,7 @@ C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\System.W
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\System.Web.WebPages.xml
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\bin\Debug\BusinessLayer.pdb
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\obj\Debug\myMVC.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\obj\Debug\myMVC.Tests.dll
 C:\Users\Administrator\Desktop\myMVCProject\myMVC\myMVC.Tests\obj\Debug\myMVC.Tests.pdb

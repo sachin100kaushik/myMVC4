@@ -1,4 +1,4 @@
-﻿@model myMVC.Models.Employee
+﻿@model BusinessLayer.Models.Employee
 
 @{
     Layout = null;
@@ -49,7 +49,7 @@
                     </td>
              </tr>
         </table>
-        @Html.ActionLink("Back To List", "Index", new {departmentId=@Model.DepId})
+        @Html.ActionLink("Back to list of the employees", "Index", new {departmentId=@Model.DepId})
     </div>
 </body>
 </html>
