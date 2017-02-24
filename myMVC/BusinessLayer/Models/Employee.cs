@@ -18,5 +18,10 @@ namespace BusinessLayer.Models
         public string City { get; set; }
         public int DepId { get; set; }
 
+        public int InsertBLL(Employee emp)
+        { 
+        
+        }
+
     }
 }
