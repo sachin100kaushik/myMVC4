@@ -27,7 +27,7 @@ namespace myMVC.Controllers
 
             return View();
         }
-        public ViewResult GetCountrieViewData()
+        public ViewResult GetCountriesViewData()
         {
             ViewData["Countries"] = new List<string>() {
             "India",
@@ -36,7 +36,6 @@ namespace myMVC.Controllers
             "Germany",
             "Spain"
             };
-
             return View();
         }
 

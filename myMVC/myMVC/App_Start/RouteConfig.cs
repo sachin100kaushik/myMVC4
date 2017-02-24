@@ -16,7 +16,7 @@ namespace myMVC
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "GetCountrieViewData", id = UrlParameter.Optional }
+                defaults: new { controller = "Home", action = "GetCountriesViewData", id = UrlParameter.Optional }
             );
         }
     }
